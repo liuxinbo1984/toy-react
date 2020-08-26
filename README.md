@@ -1,2 +1,2 @@
 # toy-react
-a simple react
+a simple react.
